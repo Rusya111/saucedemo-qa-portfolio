@@ -1,20 +1,22 @@
 # -Swag-Labs-saucedemo.com-
 Тестирование интернет-магазина «Swag Labs» (saucedemo.com)
+```text
 saucedemo-qa-portfolio/
-├── README.md                  ← главная витрина, сюда всё внимание
+├── README.md
 ├── test-plan/
-│   └── test-plan.md           ← твой тест-план в Markdown
+│   └── test-plan.md
 ├── checklists/
-│   └── checklist.md           ← чек-лист в Markdown
+│   └── checklist.md
 ├── test-cases/
 │   ├── authorization.md
 │   ├── catalog.md
 │   ├── cart.md
-│   └── checkout.md            ← разбей по модулям, а не один файл
+│   └── checkout.md
 ├── bug-reports/
-│   └── bug-reports.md         ← таблица дефектов BUG-001…005
-├── sources/                   ← оригиналы
+│   └── bug-reports.md
+├── sources/
 │   ├── test-plan.docx
 │   ├── checklist.xlsx
 │   └── test-cases.xlsx
 └── .gitignore
+```
