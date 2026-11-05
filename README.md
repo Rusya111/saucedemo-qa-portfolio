@@ -17,5 +17,4 @@ saucedemo-qa-portfolio/
 ├── test-plan.docx
 ├── checklist.xlsx
 └── test-cases.xlsx
-└── .gitignore
 ```
