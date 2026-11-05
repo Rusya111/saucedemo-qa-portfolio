@@ -14,9 +14,8 @@ saucedemo-qa-portfolio/
 │   └── checkout.md
 ├── bug-reports/
 │   └── bug-reports.md
-├── sources/
-│   ├── test-plan.docx
-│   ├── checklist.xlsx
-│   └── test-cases.xlsx
+├── test-plan.docx
+├── checklist.xlsx
+└── test-cases.xlsx
 └── .gitignore
 ```
